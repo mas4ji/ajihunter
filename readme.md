@@ -38,4 +38,4 @@ Jika Anda merasa proyek ini bermanfaat dan ingin mendukung, Anda bisa melakukann
   </a>
 </p>
 
-Terima kasih telah menggunakan AjiFuzzing. Semoga alat ini membantu Anda dalam menjaga keamanan aplikasi web!
+Terima kasih telah menggunakan ajihunter. Semoga alat ini membantu Anda dalam menjaga keamanan aplikasi web!
