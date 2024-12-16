@@ -13,4 +13,4 @@ Ajihunter adalah alat untuk mengunduh file JavaScript (.js) dari satu domain ata
 Anda bisa menginstal dan menggunakan `ajihunter` dengan perintah one-liner berikut:
 
 ```bash
-git clone https://github.com/username/ajihunter.git && cd ajihunter && ./install.sh && ajihunter -h
+git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && ./install.sh && ajihunter -h
