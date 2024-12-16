@@ -9,7 +9,7 @@ Silakan gunakan salah satu opsi berikut:
 - **`-o`** : Untuk menentukan direktori output tempat file `.js` disimpan (opsional).
 
 
-## **Prasyarat**
+## **Persyaratan**
 - Pastikan Python dan pip telah terinstal di sistem Anda.
 
 ## **Instalasi**
