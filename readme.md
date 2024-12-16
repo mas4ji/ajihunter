@@ -1,22 +1,21 @@
 # **Ajihunter - Scraper for JS Files**
 
-    _       _ ___       _ ____    _   _ _   _ _   _ _____ _____ ____  
-   / \     | |_ _|     | / ___|  | | | | | | | \ | |_   _| ____|  _ \ 
-  / _ \ _  | || |   _  | \___ \  | |_| | | | |  \| | | | |  _| | |_) |
- / ___ \ |_| || |  | |_| |___) | |  _  | |_| | |\  | | | | |___|  _ < 
-/_/   \_\___/|___|  \___/|____/  |_| |_|\___/|_| \_| |_| |_____|_| \_\
+Ajihunter adalah alat untuk mengunduh file JavaScript (.js) dari satu domain atau daftar domain. Anda dapat menggunakannya untuk mengunduh skrip yang disematkan di situs web dan menyimpannya ke dalam folder tertentu. Tool ini sangat berguna untuk pengumpulan file JS dari berbagai situs web.
 
-Ajihunter adalah alat untuk mengunduh file JavaScript (.js) dari satu domain atau daftar domain. Anda dapat menggunakannya untuk mengunduh skrip yang disematkan di situs web dan menyimpannya ke dalam folder tertentu.
+## **Usage**
+Silakan gunakan salah satu opsi berikut:
+- **`-d`** : Untuk menentukan satu domain yang akan di-scrape.
+- **`-f`** : Untuk menentukan file yang berisi daftar domain (satu per baris).
+- **`-o`** : Untuk menentukan direktori output tempat file `.js` disimpan (opsional).
 
-## **Fitur**
-- Mengunduh file `.js` dari satu domain.
-- Mengunduh file `.js` dari banyak domain yang tercantum dalam file teks.
-- Menyimpan file `.js` di folder yang terpisah berdasarkan domain.
+
+## **Prasyarat**
+- Pastikan Python dan pip telah terinstal di sistem Anda.
 
 ## **Instalasi**
 
 ### 1. **Clone Repo dan Install Dependensi**
-Anda bisa menginstal dan menggunakan `ajihunter` dengan perintah one-liner berikut:
+Untuk menginstal dan menggunakan `ajihunter`, Anda bisa menjalankan perintah berikut di terminal:
 
 ```bash
 git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && ./install.sh && ajihunter -h
