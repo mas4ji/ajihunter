@@ -22,7 +22,7 @@ Untuk menginstal dan menggunakan `python3 ajihunter.py`, Anda bisa menjalankan p
 ```bash
 git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 ajihunter.py
 ```
-## 📱 Hubungi Saya:
+## Hubungi Saya:
 <p align="left">
   <a href="https://linkedin.com/in/mas4ji" target="blank">
     LinkedIn
@@ -30,7 +30,7 @@ git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 aji
 </p>
 ```
 
-## 💖 Dukung Saya:
+## Dukung Saya:
 Jika Anda merasa proyek ini bermanfaat dan ingin mendukung, Anda bisa melakukannya melalui BuyMeACoffee:
 
 <p align="center">
