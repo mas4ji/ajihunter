@@ -25,10 +25,9 @@ git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 aji
 ## **Hubungi Saya:**
 <p align="left">
   <a href="https://linkedin.com/in/mas4ji" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="30"/>
+    <i class="fab fa-linkedin"></i> LinkedIn
   </a>
 </p>
-
 
 ## Dukung Saya:
 Jika Anda merasa proyek ini bermanfaat dan ingin mendukung, Anda bisa melakukannya melalui BuyMeACoffee:
