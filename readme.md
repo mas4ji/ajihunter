@@ -28,7 +28,6 @@ git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 aji
     LinkedIn
   </a>
 </p>
-```
 
 ## Dukung Saya:
 Jika Anda merasa proyek ini bermanfaat dan ingin mendukung, Anda bisa melakukannya melalui BuyMeACoffee:
