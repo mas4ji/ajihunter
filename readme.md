@@ -1,28 +1,16 @@
-# Ajihunter - Scrape JS Files from Websites
+# **Ajihunter - Scraper for JS Files**
 
-## Deskripsi
-Ajihunter adalah alat untuk mengunduh file `.js` dari halaman web atau daftar domain yang ada pada file.
+Ajihunter adalah alat untuk mengunduh file JavaScript (.js) dari satu domain atau daftar domain. Anda dapat menggunakannya untuk mengunduh skrip yang disematkan di situs web dan menyimpannya ke dalam folder tertentu.
 
-## Instalasi
+## **Fitur**
+- Mengunduh file `.js` dari satu domain.
+- Mengunduh file `.js` dari banyak domain yang tercantum dalam file teks.
+- Menyimpan file `.js` di folder yang terpisah berdasarkan domain.
 
-1. Clone repositori ini:
-    ```bash
-    git clone https://github.com/username/ajihunter.git
-    cd ajihunter
-    ```
+## **Instalasi**
 
-2. Install dependensi:
-    ```bash
-    pip install -r requirements.txt
-    ```
+### 1. **Clone Repo dan Install Dependensi**
+Anda bisa menginstal dan menggunakan `ajihunter` dengan perintah one-liner berikut:
 
-3. Gunakan `install.sh` untuk menambahkan perintah `ajihunter` ke sistem:
-    ```bash
-    bash install.sh
-    ```
-
-## Penggunaan
-
-### Untuk satu domain:
 ```bash
-ajihunter -d example.com
+git clone https://github.com/username/ajihunter.git && cd ajihunter && ./install.sh && ajihunter -h
