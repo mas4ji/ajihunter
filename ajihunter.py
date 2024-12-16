@@ -11,12 +11,18 @@ def print_welcome_message():
    / _ \  | | |  _  | \___ \  | |_| | | | | '_ \| __/ _ \ '__| 
   / ___ \ | | | | |_| |___) | |  _  | |_| | | | | ||  __/ |   
  /_/   \_\/ |_|  \___/|____/  |_| |_|\__,_|_| |_|\__\___|_|   
-         |__/                                                  
-    """
+         |__/                                                   """
     print("\033[36m" + welcome_message)  # Cyan
+
+# Fungsi untuk memastikan URL dimulai dengan http:// jika tidak ada
+def ensure_http(url):
+    if not url.startswith("http"):
+        return "http://" + url
+    return url
 
 # Fungsi untuk scrape file JS dari sebuah URL
 def scrape_js_from_url(url, output_dir="output"):
+    url = ensure_http(url)  # Pastikan URL memiliki 'http://'
     domain_name = url.split("//")[-1].split("/")[0]
     domain_folder = os.path.join(output_dir, domain_name)
 
