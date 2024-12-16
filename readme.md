@@ -15,7 +15,7 @@ Silakan gunakan salah satu opsi berikut:
 ## **Instalasi**
 
 ### 1. **Clone Repo dan Install Dependensi**
-Untuk menginstal dan menggunakan `ajihunter`, Anda bisa menjalankan perintah berikut di terminal:
+Untuk menginstal dan menggunakan `python3 ajihunter.py`, Anda bisa menjalankan perintah berikut di terminal:
 
 ```bash
-git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && ./install.sh && ajihunter -h
+git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 ajihunter.py
