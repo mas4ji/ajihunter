@@ -1,6 +1,6 @@
 # **Ajihunter - Scraper for JS Files**
 
-Ajihunter adalah alat untuk mengunduh file JavaScript (.js) dari satu domain atau daftar domain. Anda dapat menggunakannya untuk mengunduh skrip yang disematkan di situs web dan menyimpannya ke dalam folder tertentu. Tool ini sangat berguna untuk pengumpulan file JS dari berbagai situs web.
+Ajihunter adalah alat yang digunakan untuk menemukan dan mengunduh file JavaScript (.js) dari satu domain atau daftar domain. Alat ini dirancang untuk membantu dalam bug hunting dengan mengidentifikasi dan mengunduh file skrip JavaScript yang disematkan pada situs web. Anda dapat menggunakan Ajihunter untuk mengumpulkan file JS yang relevan dari berbagai situs web untuk dianalisis lebih lanjut.
 
 ![Ajihunter Screenshot](https://github.com/mas4ji/ajitools/blob/main/image%20(19).png)
 
@@ -22,12 +22,13 @@ Untuk menginstal dan menggunakan `python3 ajihunter.py`, Anda bisa menjalankan p
 ```bash
 git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 ajihunter.py
 ```
-## Hubungi Saya:
+## **Hubungi Saya:**
 <p align="left">
   <a href="https://linkedin.com/in/mas4ji" target="blank">
-    LinkedIn
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
 </p>
+
 
 ## Dukung Saya:
 Jika Anda merasa proyek ini bermanfaat dan ingin mendukung, Anda bisa melakukannya melalui BuyMeACoffee:
