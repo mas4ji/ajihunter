@@ -29,11 +29,11 @@
 ## **Persyaratan**
 - Pastikan Python dan pip telah terinstal di sistem Anda.
 
-### 1. **Clone Repo dan Install Dependensi**
+## **Clone Repo dan Install Dependensi**
 
 Untuk menginstal dan menggunakan `Ajihunter`, Anda dapat mengikuti langkah-langkah berikut:
 
-1. **Clone repository**:
+- **Clone repository**:
    - Jalankan perintah berikut untuk menyalin repository Ajihunter ke dalam sistem lokal Anda:
    ```bash
    git clone https://github.com/mas4ji/ajihunter.git
