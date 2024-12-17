@@ -39,12 +39,3 @@ git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 aji
 **AjiHunter** dibuat untuk tujuan edukasi dan penelitian keamanan siber semata. Penggunaan alat ini untuk tujuan yang tidak sah, seperti mengakses atau mengumpulkan data dari situs web tanpa izin eksplisit dari pemiliknya, dapat melanggar hukum dan kebijakan privasi.
 
 **Pengguna bertanggung jawab sepenuhnya atas penggunaan alat ini.** Kami tidak bertanggung jawab atas segala bentuk kerugian, dampak hukum, atau konsekuensi negatif lainnya yang timbul akibat penggunaan alat ini.
-
-Dengan menggunakan alat ini, Anda setuju untuk tidak menggunakannya untuk aktivitas yang merusak, seperti:
-
-- **Menyalahgunakan** data yang diambil dari situs web untuk tujuan yang tidak sah.
-- **Menggunakan** alat ini untuk mengakses informasi pribadi atau sensitif yang dilindungi oleh hukum.
-
-Harap pastikan bahwa penggunaan alat ini sesuai dengan hukum yang berlaku di wilayah Anda dan dapatkan izin terlebih dahulu sebelum mengakses atau mengumpulkan data dari situs web pihak ketiga.
-
-Terima kasih telah menggunakan ajihunter. Semoga alat ini membantu Anda dalam menjaga keamanan aplikasi web!
