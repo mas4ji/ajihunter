@@ -1,42 +1,40 @@
 <h1 align="center">Ajihunter - Scraper for JS Files</h1>
 
-<p align="center">Ajihunter adalah alat yang digunakan untuk menemukan dan mengunduh file JavaScript (.js) dari satu domain atau daftar domain. Alat ini dirancang untuk membantu dalam bug hunting dengan mengidentifikasi dan mengunduh file skrip JavaScript yang disematkan pada situs web. Anda dapat menggunakan Ajihunter untuk mengumpulkan file JS yang relevan dari berbagai situs web untuk dianalisis lebih lanjut.</p>
-
+<p align="center">Ajihunter is a tool used to find and download JavaScript (.js) files from a single domain or a list of domains. This tool is designed to assist in bug hunting by identifying and downloading embedded JavaScript files on websites. You can use Ajihunter to gather relevant JS files from various websites for further analysis.</p>
 
 <p align="center">
   <img src="https://github.com/mas4ji/ajitools/blob/main/image%20(19).png" alt="Ajihunter Screenshot">
 </p>
 
 ## **Usage**
-### Opsi:
+### Options:
 
-- **`-d`** : Untuk menentukan satu domain yang akan di-scrape.
-  - Contoh: 
+- **`-d`** : To specify a single domain to scrape.
+  - Example:
     ```bash
     python3 ajihunter.py -d http://example.com
     ```
-    Akan men-scrape file JavaScript dari satu domain `http://example.com`.
+    This will scrape JavaScript files from the domain `http://example.com`.
 
-- **`-f`** : Untuk menentukan file yang berisi daftar domain (satu domain per baris).
-  - Contoh: 
+- **`-f`** : To specify a file containing a list of domains (one domain per line).
+  - Example:
     ```bash
     python3 ajihunter.py -f domains.txt
     ```
-    Akan men-scrape file JavaScript dari semua domain yang terdapat dalam file `domains.txt`, dimana setiap domain ada pada satu baris.
+    This will scrape JavaScript files from all the domains listed in the `domains.txt` file, with each domain on a new line.
 
+## **Requirements**
+- Ensure that Python and pip are installed on your system.
 
+## **Clone Repo and Install Dependencies**
 
-## **Persyaratan**
-- Pastikan Python dan pip telah terinstal di sistem Anda.
+To install and use `Ajihunter`, follow these steps:
 
-## **Clone Repo dan Install Dependensi**
-
-Untuk menginstal dan menggunakan `Ajihunter`, Anda dapat mengikuti langkah-langkah berikut:
-
-- **Clone repository**:
-   - Jalankan perintah berikut untuk menyalin repository Ajihunter ke dalam sistem lokal Anda:
+- **Clone the repository**:
+   - Run the following command to clone the Ajihunter repository to your local system:
    ```bash
    git clone https://github.com/mas4ji/ajihunter.git
+
    
 ## Connect with me:
 <p align="left">
@@ -53,4 +51,4 @@ Untuk menginstal dan menggunakan `Ajihunter`, Anda dapat mengikuti langkah-langk
 
 
 ## Security Notice
-Alat ini ditujukan untuk tujuan pendidikan dan audit keamanan. Pastikan Anda memiliki izin eksplisit sebelum melakukan scraping pada situs web apa pun. Pencipta tidak bertanggung jawab atas segala kerusakan atau aktivitas ilegal yang disebabkan oleh penyalahgunaan alat ini.
+This tool is intended for educational and security auditing purposes. Ensure you have explicit permission before scraping any website. The creators are not responsible for any damage or illegal activities resulting from the misuse of this tool.
