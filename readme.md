@@ -34,7 +34,15 @@ To install and use `Ajihunter`, follow these steps:
    - Run the following command to clone the Ajihunter repository to your local system:
    ```bash
    git clone https://github.com/mas4ji/ajihunter.git
-
+    ```
+   - Navigate into the repository folder:
+   ```bash
+   cd ajihunter
+    ```
+   - Run the script:
+   ```bash
+   python3 ajihunter.py -d http://example.com or python3 ajihunter.py -f domains.txt
+   ```
    
 ## Connect with me:
 <p align="left">
