@@ -29,14 +29,15 @@
 ## **Persyaratan**
 - Pastikan Python dan pip telah terinstal di sistem Anda.
 
-## **Instalasi**
-
 ### 1. **Clone Repo dan Install Dependensi**
-Untuk menginstal dan menggunakan `python3 ajihunter.py`, Anda bisa menjalankan perintah berikut di terminal:
 
-```bash
-git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 ajihunter.py
-```
+Untuk menginstal dan menggunakan `Ajihunter`, Anda dapat mengikuti langkah-langkah berikut:
+
+1. **Clone repository**:
+   - Jalankan perintah berikut untuk menyalin repository Ajihunter ke dalam sistem lokal Anda:
+   ```bash
+   git clone https://github.com/mas4ji/ajihunter.git
+   
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/fazriansyahmuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xkayala" height="30" width="40" /></a>
