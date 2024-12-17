@@ -8,9 +8,22 @@
 </p>
 
 ## **Usage**
-Silakan gunakan salah satu opsi berikut:
+### Opsi:
+
 - **`-d`** : Untuk menentukan satu domain yang akan di-scrape.
-- **`-f`** : Untuk menentukan file yang berisi daftar domain (satu per baris).
+  - Contoh: 
+    ```bash
+    python3 ajihunter.py -d http://example.com
+    ```
+    Akan men-scrape file JavaScript dari satu domain `http://example.com`.
+
+- **`-f`** : Untuk menentukan file yang berisi daftar domain (satu domain per baris).
+  - Contoh: 
+    ```bash
+    python3 ajihunter.py -f domains.txt
+    ```
+    Akan men-scrape file JavaScript dari semua domain yang terdapat dalam file `domains.txt`, dimana setiap domain ada pada satu baris.
+
 
 
 ## **Persyaratan**
