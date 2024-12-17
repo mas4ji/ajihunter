@@ -33,7 +33,7 @@ git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 aji
 
 ## Peringatan
 
-**AjiScrape** dibuat untuk tujuan edukasi dan penelitian keamanan siber semata. Penggunaan alat ini untuk tujuan yang tidak sah, seperti mengakses atau mengumpulkan data dari situs web tanpa izin eksplisit dari pemiliknya, dapat melanggar hukum dan kebijakan privasi.
+**AjiHunter** dibuat untuk tujuan edukasi dan penelitian keamanan siber semata. Penggunaan alat ini untuk tujuan yang tidak sah, seperti mengakses atau mengumpulkan data dari situs web tanpa izin eksplisit dari pemiliknya, dapat melanggar hukum dan kebijakan privasi.
 
 **Pengguna bertanggung jawab sepenuhnya atas penggunaan alat ini.** Kami tidak bertanggung jawab atas segala bentuk kerugian, dampak hukum, atau konsekuensi negatif lainnya yang timbul akibat penggunaan alat ini.
 
