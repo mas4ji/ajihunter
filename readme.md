@@ -11,7 +11,6 @@
 Silakan gunakan salah satu opsi berikut:
 - **`-d`** : Untuk menentukan satu domain yang akan di-scrape.
 - **`-f`** : Untuk menentukan file yang berisi daftar domain (satu per baris).
-- **`-o`** : Untuk menentukan direktori output tempat file `.js` disimpan (opsional).
 
 
 ## **Persyaratan**
