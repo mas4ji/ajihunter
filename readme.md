@@ -39,6 +39,10 @@ To install and use `Ajihunter`, follow these steps:
    ```bash
    cd ajihunter
     ```
+   - Install required dependencies:
+   ```bash
+   pip3 install -r requirements.txt
+    ```
    - Run the script:
    ```bash
    python3 ajihunter.py -d http://example.com or python3 ajihunter.py -f domains.txt
