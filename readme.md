@@ -33,8 +33,10 @@ git clone https://github.com/mas4ji/ajihunter.git && cd ajihunter && python3 aji
 </p>
 
 
-## Peringatan
+## Acknowledgements
+- Thanks to [Root Bakar](https://github.com/RootBakar) for the inspiration to create this tool.
+- Special thanks to the open-source community for their amazing libraries and support!
 
-**AjiHunter** dibuat untuk tujuan edukasi dan penelitian keamanan siber semata. Penggunaan alat ini untuk tujuan yang tidak sah, seperti mengakses atau mengumpulkan data dari situs web tanpa izin eksplisit dari pemiliknya, dapat melanggar hukum dan kebijakan privasi.
 
-**Pengguna bertanggung jawab sepenuhnya atas penggunaan alat ini.** Kami tidak bertanggung jawab atas segala bentuk kerugian, dampak hukum, atau konsekuensi negatif lainnya yang timbul akibat penggunaan alat ini.
+## Security Notice
+Alat ini ditujukan untuk tujuan pendidikan dan audit keamanan. Pastikan Anda memiliki izin eksplisit sebelum melakukan scraping pada situs web apa pun. Pencipta tidak bertanggung jawab atas segala kerusakan atau aktivitas ilegal yang disebabkan oleh penyalahgunaan alat ini.
